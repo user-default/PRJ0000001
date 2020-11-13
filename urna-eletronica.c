@@ -1,6 +1,4 @@
     #include <stdio.h>
-    //Program: Urna Eletrônica
-    //Creation data: 12/11/2020
      
     void menuVotacao()
     {
